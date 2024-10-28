@@ -1,7 +1,14 @@
 body{
-    background-color: aquamarine;
-    color: chocolate;
+    background-color: rgb(228, 216, 216);
+    color: rgb(28, 7, 211);
 }
 h3{
     text-align: center;
+}
+a{
+    color: rgb(238, 13, 5);
+}
+
+header{
+    color: rgb(180, 122, 158);
 }
