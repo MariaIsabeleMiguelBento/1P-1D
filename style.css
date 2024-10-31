@@ -1,14 +1,20 @@
 body{
-    background-color: rgb(228, 216, 216);
+    background-color: rgb(201, 153, 190);
     color: rgb(28, 7, 211);
 }
 h3{
     text-align: center;
 }
 a{
-    color: rgb(238, 13, 5);
+    color: darkblue;
 }
-
+.primeiro-titulo{
+    color: black;
+}
+.segundo-titulo{
+    color: orangered;
+}
 header{
-    color: rgb(180, 122, 158);
+    color: rgb(112, 6, 71);
+    background-color: rgb(0, 255, 64);
 }
